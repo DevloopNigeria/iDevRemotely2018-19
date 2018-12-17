@@ -14,5 +14,14 @@ ___
 
 _// Yours goes here.._
 
+**Name:** Oluwabamise Ojo (@bammydu) <br>
+**Occupation:** Software Developer <br>
+**Interests:** Technology | Good Music | Leadership | Video gaming <br>
+**Role Model:** NUll <br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "Whatsoever things common to man, that man has done, man can do. - Marcus Garvey" <br>
+**The adjective that best describes me:** Cool <br>
+___
+
 
 
