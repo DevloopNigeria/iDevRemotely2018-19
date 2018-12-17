@@ -10,9 +10,7 @@
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "I set limits then I exceed them" <br>
 **The adjective that best describes me:** Funny <br>
-___
 
-_// Yours goes here.._
 
 **Name:** Fabiyi Opeyemi (@Opiano1)<br>
 **Occupation:** WebDeveloper (BackEnd)| Data Sciene Enthusiast <br>
