@@ -74,3 +74,13 @@ ___
 **Favorite Superhero:** Steven Gerrard <br>
 **Favorite Quote:** "With Teamwork and Collaboration,Beautiful things can be achieve" <br>
 **The adjective that best describes me:** Easy and Quiet <br>
+___
+**Name:** Adekanye Francisca (@Cisca) <br>
+**Occupation:** Front Developer |  <br>
+**Interests:** Music | Technology <br>
+**Role Model:**  <br>
+**Favorite Superheros:** DC Comics and Marvel Characters <br>
+**Favorite Quote:** "Always put in your best in everything you do" <br>
+**The adjective that best describes me:** Playful <br>
+___
+**_Yours goes here_**
