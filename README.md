@@ -19,6 +19,14 @@
 **Favorite Quote:** "You are already hurt, Get a reward!" <br>
 **The adjective that best describes me:** Quiet <br>
 
+**Name:** Abednego Mwanza (@abednego_mwanza) <br>
+**Occupation:** Android Developer | Web Developer | Graphics Designer <br>
+**Interests:** Artificial Intelligence | Creativity | Sci-fi Movies | Psychology | <br>
+**Role Model:** Leonardo da Vinci <br>
+**Favorite Superhero:** Iron Man <br>
+**Favorite Quote:** "Everyone knows that this is impossible. But an ignorant comes who does not know this and makes an invention" <br>
+**The adjective that best describes me:** humorous <br>
+
 
 **Name:** Aminu Ibrahim Abubakar (@AminuSufi585) <br>
 **Occupation:** Front End Developer | Civil Engineer <br>
