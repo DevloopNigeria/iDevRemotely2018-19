@@ -19,8 +19,15 @@
 **Favorite Quote:** "You are already hurt, Get a reward!" <br>
 **The adjective that best describes me:** Quiet <br>
 
-____
 
+**Name:** Aminu Ibrahim Abubakar (@AminuSufi585) <br>
+**Occupation:** Front End Developer | Civil Engineer <br>
+**Interests:** Data Science | AI | ML | IoT <br>
+**Role Model:** Prosper Otemuyiwa <br>
+**Favorite Superhero:** Super Man <br>
+**Favorite Quote:** "Give back to the community" <br>
+**The adjective that best describes me:** Analytical <br>
+---
 
 **Name:** Odunayo Okebunmi (@OdunayoO) <br>
 **Occupation:** Front Developer | Python enthusiast <br>
