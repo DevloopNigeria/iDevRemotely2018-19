@@ -67,4 +67,13 @@ ___
 **Favorite Quote:** "Success is first within before it is without, if you can think it then you can achieve it" <br>
 **The adjective that best describes me:** Jovial <br>
 ___
+**Name:** Adekanye Francisca (@Cisca) <br>
+**Occupation:** Front Developer |  <br>
+**Interests:** Music | Technology <br>
+**Role Model:**  <br>
+**Favorite Superheros:** DC Comics and Marvel Characters <br>
+**Favorite Quote:** "Always put in your best in everything you do" <br>
+**The adjective that best describes me:** Playful <br>
+___
 **_Yours goes here_**
+
