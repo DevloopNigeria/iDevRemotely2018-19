@@ -10,7 +10,7 @@
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "I set limits then I exceed them" <br>
 **The adjective that best describes me:** Funny <br>
----
+___
 **Name:** Olibie, Chidera (@Chidera)<br>
 **Occupation:** Web Developer | Student <br>
 **Interests:**  Books | Politics | providing value through codes<br>
@@ -26,7 +26,7 @@ ___
 **Favorite Superhero:** Spiderman <br>
 **Favorite Quote:** "You are already hurt, Get a reward!" <br>
 **The adjective that best describes me:** Quiet <br>
----
+___
 **Name:** Abednego Mwanza (@abednego_mwanza) <br>
 **Occupation:** Android Developer | Web Developer | Graphics Designer <br>
 **Interests:** Artificial Intelligence | Creativity | Sci-fi Movies | Psychology | <br>
@@ -34,7 +34,7 @@ ___
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "Everyone knows that this is impossible. But an ignorant comes who does not know this and makes an invention" <br>
 **The adjective that best describes me:** humorous <br>
----
+___
 **Name:** Aminu Ibrahim Abubakar (@AminuSufi585) <br>
 **Occupation:** Front End Developer | Civil Engineer <br>
 **Interests:** Data Science | AI | ML | IoT <br>
@@ -42,7 +42,7 @@ ___
 **Favorite Superhero:** Super Man <br>
 **Favorite Quote:** "Give back to the community" <br>
 **The adjective that best describes me:** Analytical <br>
----
+___
 **Name:** Odunayo Okebunmi (@OdunayoO) <br>
 **Occupation:** Front Developer | Python enthusiast <br>
 **Interests:** Music | Books | Technology <br>
@@ -50,7 +50,7 @@ ___
 **Favorite Superhero:** Dr Strange <br>
 **Favorite Quote:** "Half education is a dangerous thing, drink deep or taste not" <br>
 **The adjective that best describes me:** Funny <br>
----
+___
 **Name:** Oluwabamise Ojo (@bammydu) <br>
 **Occupation:** Software Developer <br>
 **Interests:** Technology | Good Music | Leadership | Video gaming <br>
@@ -66,5 +66,5 @@ ___
 **Favorite Superhero:** Flash <br>
 **Favorite Quote:** "Success is first within before it is without, if you can think it then you can achieve it" <br>
 **The adjective that best describes me:** Jovial <br>
----
+___
 **_Yours goes here_**
