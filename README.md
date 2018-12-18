@@ -83,4 +83,12 @@ ___
 **Favorite Quote:** "Always put in your best in everything you do" <br>
 **The adjective that best describes me:** Playful <br>
 ___
+**Name:** Zakariya Abdulhameed (@zaks0n)<br>
+**Occupation:** Android Developer | React enthusiast <br>
+**Interests:**  IoT | Robotics |Video Games <br>
+**Role Model:** Sanni Yusuf <br>
+**Favorite Superhero:** Super man <br>
+**Favorite Quote:** "Consistency is key" <br>
+**The adjective that best describes me:** Introvert <br>
+___
 **_Yours goes here_**
