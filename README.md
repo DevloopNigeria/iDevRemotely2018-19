@@ -65,7 +65,15 @@ ___
 **Role Model:** Ronald Von Loon <br>
 **Favorite Superhero:** Flash <br>
 **Favorite Quote:** "Success is first within before it is without, if you can think it then you can achieve it" <br>
-**The adjective that best describes me:** Jovial <br>
+**The adjective that best describes me:** Jovial 
+___
+**Name:** Alimi Kehinde Morufudeen (@marusoft)<br>
+**Occupation:** WebDeveloper (FrontEnd)| Tech Enthusiast <br>
+**Interests:** Tech | Web | Tech | Sport | Theoretical Physics <br>
+**Role Model:** Muhammed ibn Abdullah <br>
+**Favorite Superhero:** Steven Gerrard <br>
+**Favorite Quote:** "With Teamwork and Collaboration,Beautiful things can be achieve" <br>
+**The adjective that best describes me:** Easy and Quiet <br>
 ___
 **Name:** Adekanye Francisca (@Cisca) <br>
 **Occupation:** Front Developer |  <br>
@@ -76,4 +84,3 @@ ___
 **The adjective that best describes me:** Playful <br>
 ___
 **_Yours goes here_**
-
