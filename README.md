@@ -1,4 +1,4 @@
-# iDevRemotely2018-19 - Who am I? 
+﻿# iDevRemotely2018-19 - Who am I? 
 ### Add your profile 😎 
 
 **_Sample_**
@@ -10,6 +10,15 @@
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "I set limits then I exceed them" <br>
 **The adjective that best describes me:** Funny <br>
+___
+
+**Name:** Olibie, Chidera (@Chidera) 😎<br>
+**Occupation:** Web Developer | Student <br>
+**Interests:**  Books | Politics | providing value through codes<br>
+**Role Model:** Ire Aderinokun <br>
+**Favorite Superhero:** --- <br>
+**Favorite Quote:** "Never give up without a fight" <br>
+**The adjective that best describes me:** Calm <br>
 ___
 
 _// Yours goes here.._
