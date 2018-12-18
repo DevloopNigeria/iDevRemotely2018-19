@@ -67,4 +67,9 @@ ___
 **Favorite Quote:** "Success is first within before it is without, if you can think it then you can achieve it" <br>
 **The adjective that best describes me:** Jovial <br>
 ___
-**_Yours goes here_**
+ **Name:** Eniolorunda Oluwabanke <br>
+**Occupation:** Software Developer | Entrepreneur <br>
+**Interests:**  Books | Meeting intellectual people | providing value through codes | ML | AI | Cybersecurity <br>
+**Favorite Superhero:** Wonder woman <br>
+**Favorite Quote:** "Little drops of water make a mighty ocean" <br>
+**The adjective that best describes me:** Observant <br>
