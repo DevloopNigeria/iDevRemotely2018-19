@@ -99,7 +99,7 @@ ___
 ___
 **Name:** Shamsuddeen Omacy (@Shamsuddeen) <br>
 **Occupation:** Web Developer <br>
-**Interests:** AI | Robotics | IoT | Music <br>
+**Interests:** AI | Programming | Robotics | IoT | Music <br>
 **Role Model:** Mark Zuckerberg, Bill Gates, Steve Jobs <br>
 **Favorite Superhero:** None <br>
 **Favorite Quote:** "Declare variables, not war" <br>
