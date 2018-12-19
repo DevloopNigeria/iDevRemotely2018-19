@@ -90,12 +90,20 @@ ___
 **Favorite Quote:** "Consistency is key" <br>
 **The adjective that best describes me:** Introvert <br>
 ___
- **Name:** Eniolorunda Oluwabanke <br>
+**Name:** Eniolorunda Oluwabanke <br>
 **Occupation:** Software Developer | Entrepreneur <br>
 **Interests:**  Books | Meeting intellectual people | providing value through codes | ML | AI | Cybersecurity <br>
 **Favorite Superhero:** Wonder woman <br>
 **Favorite Quote:** "Little drops of water make a mighty ocean" <br>
 **The adjective that best describes me:** Observant <br>
+___
+**Name:** Enemchukwu Daniel (@Danielflame) <br>
+**Occupation:** Frontend Developer | Student <br>
+**Interests:**  Music | Networking with people | Games and Animations Creation | Machine Learning | Artificial Intelligence | Robotics  <br>
+**Role Model:**  <br>
+**Favorite Superhero:** Black Panther <br>
+**Favorite Quote:** "It can only get better" <br>
+**The adjective that best describes me:** Caring <br>
 ___
 **Name:** Shamsuddeen Omacy (@Shamsuddeen) <br>
 **Occupation:** Web Developer <br>
@@ -106,3 +114,4 @@ ___
 **The adjective that best describes me:** Funny <br>
 ___
 _**Next profile goes above me**_  👆 (Do not delete this line)
+
