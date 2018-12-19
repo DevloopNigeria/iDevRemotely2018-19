@@ -15,4 +15,8 @@ ___
 _// Yours goes here.._
 
 
-
+**Name:** Iyamu Ayevbeosa Joshua (@Iyamu-J) <br>
+**Occupation:** Android Developer <br>
+**Interests:** Reading | Sound Mixing<br>
+**Quote:** "A waste is a waste" <br>
+**Favourite Book:** The Second Apocalypse by R. Scott Bakker<br>
