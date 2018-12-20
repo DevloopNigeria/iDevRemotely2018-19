@@ -10,6 +10,12 @@
 **Favorite Quote:** "I set limits then I exceed them" <br>
 **The adjective that best describes me:** Funny <br>
 ___
+**Name:** Iyamu Ayevbeosa Joshua (@Iyamu-J) <br>
+**Occupation:** Android Developer <br>
+**Interests:** Reading | Sound Mixing<br>
+**Quote:** "A waste is a waste" <br>
+**Favourite Book:** The Second Apocalypse by R. Scott Bakker<br>
+___
 **Name:** Olibie, Chidera (@Chidera)<br>
 **Occupation:** Web Developer | Student <br>
 **Interests:**  Books | Politics | providing value through codes<br>
