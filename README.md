@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # iDevRemotely2018-19 - Who am I?
 ### Add your profile 😎
@@ -67,6 +68,12 @@ ___
 **Favorite Quote:** "Success is first within before it is without, if you can think it then you can achieve it" <br>
 **The adjective that best describes me:** Jovial <br>
 ___
-
+**Name:** Adegbola Adeniyi (@Niyexdroid)<br>
+**Occupation:** Web Developer | Electronics Enthusiast <br>
+**Interests:** AI | IoT | Movies| Games| Physics |Building Electronics <br>
+**Role Model:** Albert Einstein & Nikola Tesla <br>
+**Favorite Superhero:** Naruto <br>
+**Favorite Quote:** "Most persons are so absorbed in the contemplation of the outside world that they are wholly oblivious to what is passing on within themselves." <br>
+**The adjective that best describes me:** Selfless <br>
 ___
 **_Yours goes here_**
