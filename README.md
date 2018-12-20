@@ -119,5 +119,13 @@ ___
 **Favorite Quote:** "Declare variables, not war" <br>
 **The adjective that best describes me:** Funny <br>
 ___
+**Name:** Makanjuola Oyekola (@fuja) <br>
+**Occupation:** Android Developer | Tech Analyst | Project Manager <br>
+**Interests:** Artificial Intelligence | Music | Diplomacy | Psychology | Networking <br>
+**Role Model:** Steeve Jobs | Mark Zuckerberg <br>
+**Favorite Superhero:** MichelAngelo <br>
+**Favorite Quote:** "break boundaries..then, set new frontiers" <br>
+**The adjective that best describes me:** deep <br>
+___
 _**Next profile goes above me**_  👆 (Do not delete this line)
 
