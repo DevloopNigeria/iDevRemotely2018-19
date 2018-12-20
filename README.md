@@ -127,5 +127,13 @@ ___
 **Favorite Quote:** "break boundaries..then, set new frontiers" <br>
 **The adjective that best describes me:** deep <br>
 ___
+**Name:** Temitope Seye (@Temis Eye) <br>
+**Occupation:** Android Developer | UI/UX Designer | 10x Developer | Network Designer/Engineer | Computer Engineer <br>
+**Interests:** Data Analyst | Music | Books | Travels | Creativity <br>
+**Role Model:** Top Entreprenuers, Business Moguls and Developers <br>
+**Favorite Superhero:** I fire myself up <br>
+**Favorite Quote:** "Thinking is the hardest work there is, that is why few people engage in it" <br>
+**The adjective that best describes me:** Ground-Breaker <br>
+___
 _**Next profile goes above me**_  👆 (Do not delete this line)
 
