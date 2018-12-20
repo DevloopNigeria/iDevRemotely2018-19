@@ -12,7 +12,12 @@
 **The adjective that best describes me:** Funny <br>
 ___
 
-_// Yours goes here.._
-
+Name: Toluwalase Akintoye  <br>
+Occupation: Software Developer | Full Stack developer  <br>
+Interests:  IoT | Big Data | Analytics | Animations  <br>
+Role Model:  <br>
+Favorite Superhero:  <br>
+Favorite Quote: "There is no limit"  <br>
+The adjective that best describes me: "Reserved"  <br>
 
 
