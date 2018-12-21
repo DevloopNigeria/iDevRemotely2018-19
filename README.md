@@ -127,5 +127,13 @@ ___
 **Favorite Quote:** "break boundaries..then, set new frontiers" <br>
 **The adjective that best describes me:** deep <br>
 ___
+**Name:** Oyewale Naimat (@Naimat Oyewale) <br>
+**Occupation:** Web applications Developer  <br>
+**Interests:** Web development | UX designs | Artificial intelligence | IOT  <br>
+**Role Model:** Null <br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "little drops of water makes a mighty ocean" <br>
+**The adjective that best describes me:** calm <br>
+___
 _**Next profile goes above me**_  👆 (Do not delete this line)
 
