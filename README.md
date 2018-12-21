@@ -14,5 +14,11 @@ ___
 
 _// Yours goes here.._
 
-
+**Name:** Ekwuno Obinna (@obinnaspeaks) <br>
+**Occupation:** JavaScript Developer | Community Manger <br>
+**Interests:** A.I | IoT | Music | Movies | Travelling | Community Building <br>
+**Role Model:** Chris Nwamba | Chris Sevilleja <br>
+**Favorite Superhero:** Bat Man <br>
+**Favorite Quote:** "Progress is always Progress" <br>
+**The adjective that best describes me:** Motivated <br>
 
