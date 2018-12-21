@@ -127,5 +127,11 @@ ___
 **Favorite Quote:** "break boundaries..then, set new frontiers" <br>
 **The adjective that best describes me:** deep <br>
 ___
-_**Next profile goes above me**_  👆 (Do not delete this line)
-
+**Name:** Adegbola Adeniyi (@Niyexdroid)<br>
+**Occupation:** Web Developer | Electronics Enthusiast <br>
+**Interests:** AI | IoT | Movies| Games| Physics |Building Electronics <br>
+**Role Model:** Albert Einstein & Nikola Tesla <br>
+**Favorite Superhero:** Naruto <br>
+**Favorite Quote:** "Most persons are so absorbed in the contemplation of the outside world that they are wholly oblivious to what is passing on within themselves." <br>
+**The adjective that best describes me:** Selfless <br>
+**Next profile goes above me**_  👆 (Do not delete this line)
