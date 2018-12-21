@@ -118,6 +118,14 @@ ___
 **Favorite Superhero:** None <br>
 **Favorite Quote:** "Declare variables, not war" <br>
 **The adjective that best describes me:** Funny <br>
+______
+**Name:** Anuge Emmanuel (@Anuge Emmanuel) <br>
+**Occupation:** UI/UX developer <br>
+**Interests:** Interaction Design | AI | Movies | Music | Books | Space <br>
+**Role Model:** Elon Musk, Prine EA, Steve Jobs, Trevor Noah, Jeff Bezos <br>
+**Favorite Superhero:** Wolverine <br>
+**Favorite Quote:** "Dream big, take risk" <br>
+**The adjective that best describes me:** Reserved <br>
 ___
 **Name:** Makanjuola Oyekola (@fuja) <br>
 **Occupation:** Android Developer | Tech Analyst | Project Manager <br>
