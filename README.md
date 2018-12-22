@@ -1,4 +1,4 @@
-# iDevRemotely2018-19 - Who am I?
+﻿# iDevRemotely2018-19 - Who am I?
 ### Add your profile 😎
 **_Sample_**
 
@@ -142,4 +142,13 @@ ___
 **Favorite Superhero:** Naruto <br>
 **Favorite Quote:** "Most persons are so absorbed in the contemplation of the outside world that they are wholly oblivious to what is passing on within themselves." <br>
 **The adjective that best describes me:** Selfless <br>
+___
+**Name:** Oyewale Naimat (@Naimat Oyewale) <br>
+**Occupation:** Web applications developer <br>
+**Interests:** Artificial Intelligence | Web development | UX designs | IOT | Robotics <br>
+**Role Model:** Null<br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "Little drops of water makes a mighty ocean." <br>
+**The adjective that best describes me:** calmn <br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
