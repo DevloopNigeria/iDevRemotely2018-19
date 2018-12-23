@@ -4,7 +4,7 @@
 
 **Name:** Ismail Nurudeen (@elnuru247) <br>
 **Occupation:** Android Developer | Machine Learning Engineer <br>
-**Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
+**Interests:** Machine Learning | IoT | Music | Psychology | Sci-fi Movies  <br>
 **Role Model:** Sebastian Thrun <br>
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "I set limits then I exceed them" <br>
