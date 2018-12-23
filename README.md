@@ -151,4 +151,12 @@ ___
 **Favorite Quote:** "Little drops of water makes a mighty ocean." <br>
 **The adjective that best describes me:** calmn <br>
 ___
+**Name:** Adegbola IbukunJah (@ibukun123) <br>
+**Occupation:** Android Developer | FullStack Web Developer <br>
+**Interests:** AI| IoT | ML| Physics| Video gaming <br>
+**Role Model:** Mark Zuckerberg <br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "Think Different" <br>
+**The adjective that best describes me:** Creative <br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
