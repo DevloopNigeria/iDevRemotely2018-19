@@ -159,4 +159,11 @@ ___
 **Favorite Quote:** "Think Different" <br>
 **The adjective that best describes me:** Creative <br>
 ___
+**Name:** Ogu Chukwudi (@chudmich) <br>
+**Occupation:** Web Developer | Business Analyst <br>
+**Interests:** Data AI | Web Development | Application Development <br>
+**Role Model:** Myself <br>
+**Favorite Superhero:** Luke Cage <br>
+**Favorite Quote:** "The counsel of a poor man is despised" <br>
+**The adjective that best describes me:** Relaxed <br>
 **Next profile goes above me**_  👆 (Do not delete this line)
