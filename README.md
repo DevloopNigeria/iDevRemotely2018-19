@@ -159,4 +159,12 @@ ___
 **Favorite Quote:** "Think Different" <br>
 **The adjective that best describes me:** Creative <br>
 ___
+**Name:** Akintoye Toluwalase <br>
+**Occupation:**  FullStack Web Developer <br>
+**Interests:** AI| IoT | Andriod <br>
+**Role Model:** Null <br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "There is no limit" <br>
+**The adjective that best describes me:** Reserved <br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
