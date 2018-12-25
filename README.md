@@ -159,4 +159,12 @@ ___
 **Favorite Quote:** "Think Different" <br>
 **The adjective that best describes me:** Creative <br>
 ___
+**Name:** Osinloye, Samuel (@samspecial)<br>
+**Occupation:** Web Applications Developer | Sound Engineer <br>
+**Interests:**  Sound | Gaming | Web Apps | Sports | Robotics | Adventure <br>
+**Role Model:** Prosper Otemuyiwa <br>
+**Favorite Superhero:** Superman<br>
+**Favorite Quote:** "No act of kindness, however small is ever wasted" <br>
+**The adjective that best describes me:** Inquisitive <br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
