@@ -167,4 +167,12 @@ ___
 **Favorite Supervillian:** Hela <br>
 **The adjective that best describes me:** Quiet <br>
 ___
+**Name:** King June (@juneconnection) <br>
+**Occupation:** Web Developer | Machine Learning Engineer <br>
+**Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
+**Role Model:** President June <br>
+**Favorite Superhero:** Junite <br>
+**Favorite Quote:** "If you seek, you will find" <br>
+**The adjective that best describes me:** Smart<br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
