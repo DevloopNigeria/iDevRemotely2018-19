@@ -159,4 +159,12 @@ ___
 **Favorite Quote:** "Think Different" <br>
 **The adjective that best describes me:** Creative <br>
 ___
+**Name:** Lovette Duke <br> 
+**Occupation:** Web Developer <br>
+**Interests:** Data Engineering | Machine Learning | Node.js | Reading | Movies <br>
+**Role Model:** Maria Curie <br>
+**Favorite Superhero:** Wonder Woman <br>
+**Favorite Supervillian:** Hela <br>
+**The adjective that best describes me:** Quiet <br>
+___
 **Next profile goes above me**_  👆 (Do not delete this line)
