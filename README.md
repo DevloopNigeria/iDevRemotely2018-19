@@ -4,7 +4,7 @@
 
 **Name:** Ismail Nurudeen (@elnuru247) <br>
 **Occupation:** Android Developer | Machine Learning Engineer <br>
-**Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
+**Interests:** Machine Learning | IoT | Music | Psychology | Sci-fi Movies  <br>
 **Role Model:** Sebastian Thrun <br>
 **Favorite Superhero:** Iron Man <br>
 **Favorite Quote:** "I set limits then I exceed them" <br>
@@ -112,7 +112,7 @@ ___
 **Favorite Superhero:** None <br>
 **Favorite Quote:** "Declare variables, not war" <br>
 **The adjective that best describes me:** Funny <br>
-
+___
 **Name:** King June (@juneconnection) <br>
 **Occupation:** Web Developer | Machine Learning Engineer <br>
 **Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
@@ -121,5 +121,30 @@ ___
 **Favorite Quote:** "If you seek, you will find" <br>
 **The adjective that best describes me:** Smart<br>
 ___
-_**Next profile goes above me**_  👆 (Do not delete this line)
+**Name:** Ogu Chukwudi (@chudmich) <br>
+**Occupation:** Web Developer | Business Analyst <br>
+**Interests:** Data AI | Web Development | Application Development <br>
+**Role Model:** Myself <br>
+**Favorite Superhero:** Luke Cage <br>
+**Favorite Quote:** "The counsel of a poor man is despised" <br>
+**The adjective that best describes me:** Relaxed <br>
+___
+**Name:** Akintoye Toluwalase <br>
+**Occupation:**  FullStack Web Developer <br>
+**Interests:** AI| IoT | Andriod <br>
+**Role Model:** Null <br>
+**Favorite Superhero:** Null <br>
+**Favorite Quote:** "There is no limit" <br>
+**The adjective that best describes me:** Reserved <br>
+___
+**Name:** Osinloye, Samuel (@samspecial)<br>
+**Occupation:** Web Applications Developer | Sound Engineer <br>
+**Interests:**  Sound | Gaming | Web Apps | Sports | Robotics | Adventure <br>
+**Role Model:** Prosper Otemuyiwa <br>
+**Favorite Superhero:** Superman<br>
+**Favorite Quote:** "No act of kindness, however small is ever wasted" <br>
+**The adjective that best describes me:** Inquisitive <br>
+___
+
+**Next profile goes above me**  👆 (Do not delete this line)
 
