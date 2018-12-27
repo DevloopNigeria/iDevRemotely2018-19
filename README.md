@@ -10,12 +10,6 @@
 **Favorite Quote:** "I set limits then I exceed them" <br>
 **The adjective that best describes me:** Funny <br>
 ___
-**Name:** Iyamu Ayevbeosa Joshua (@Iyamu-J) <br>
-**Occupation:** Android Developer <br>
-**Interests:** Reading | Sound Mixing<br>
-**Quote:** "A waste is a waste" <br>
-**Favourite Book:** The Second Apocalypse by R. Scott Bakker<br>
-___
 **Name:** Olibie, Chidera (@Chidera)<br>
 **Occupation:** Web Developer | Student <br>
 **Interests:**  Books | Politics | providing value through codes<br>
@@ -118,37 +112,14 @@ ___
 **Favorite Superhero:** None <br>
 **Favorite Quote:** "Declare variables, not war" <br>
 **The adjective that best describes me:** Funny <br>
-______
-**Name:** Anuge Emmanuel (@Anuge Emmanuel) <br>
-**Occupation:** UI/UX developer <br>
-**Interests:** Interaction Design | AI | Movies | Music | Books | Space <br>
-**Role Model:** Elon Musk, Prine EA, Steve Jobs, Trevor Noah, Jeff Bezos <br>
-**Favorite Superhero:** Wolverine <br>
-**Favorite Quote:** "Dream big, take risk" <br>
-**The adjective that best describes me:** Reserved <br>
+
+**Name:** King June (@juneconnection) <br>
+**Occupation:** Web Developer | Machine Learning Engineer <br>
+**Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
+**Role Model:** President June <br>
+**Favorite Superhero:** Junite <br>
+**Favorite Quote:** "If you seek, you will find" <br>
+**The adjective that best describes me:** Smart<br>
 ___
-**Name:** Makanjuola Oyekola (@fuja) <br>
-**Occupation:** Android Developer | Tech Analyst | Project Manager <br>
-**Interests:** Artificial Intelligence | Music | Diplomacy | Psychology | Networking <br>
-**Role Model:** Steeve Jobs | Mark Zuckerberg <br>
-**Favorite Superhero:** MichelAngelo <br>
-**Favorite Quote:** "break boundaries..then, set new frontiers" <br>
-**The adjective that best describes me:** deep <br>
-___
-**Name:** Adegbola Adeniyi (@Niyexdroid)<br>
-**Occupation:** Web Developer | Electronics Enthusiast <br>
-**Interests:** AI | IoT | Movies| Games| Physics |Building Electronics <br>
-**Role Model:** Albert Einstein & Nikola Tesla <br>
-**Favorite Superhero:** Naruto <br>
-**Favorite Quote:** "Most persons are so absorbed in the contemplation of the outside world that they are wholly oblivious to what is passing on within themselves." <br>
-**The adjective that best describes me:** Selfless <br>
-___
-**Name:** Oyewale Naimat (@Naimat Oyewale) <br>
-**Occupation:** Web applications developer <br>
-**Interests:** Artificial Intelligence | Web development | UX designs | IOT | Robotics <br>
-**Role Model:** Null<br>
-**Favorite Superhero:** Null <br>
-**Favorite Quote:** "Little drops of water makes a mighty ocean." <br>
-**The adjective that best describes me:** calmn <br>
-___
+
 **Next profile goes above me**_  👆 (Do not delete this line)
