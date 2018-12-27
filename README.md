@@ -112,7 +112,7 @@ ___
 **Favorite Superhero:** None <br>
 **Favorite Quote:** "Declare variables, not war" <br>
 **The adjective that best describes me:** Funny <br>
-
+___
 **Name:** King June (@juneconnection) <br>
 **Occupation:** Web Developer | Machine Learning Engineer <br>
 **Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
@@ -121,5 +121,14 @@ ___
 **Favorite Quote:** "If you seek, you will find" <br>
 **The adjective that best describes me:** Smart<br>
 ___
+**Name:** Ogu Chukwudi (@chudmich) <br>
+**Occupation:** Web Developer | Business Analyst <br>
+**Interests:** Data AI | Web Development | Application Development <br>
+**Role Model:** Myself <br>
+**Favorite Superhero:** Luke Cage <br>
+**Favorite Quote:** "The counsel of a poor man is despised" <br>
+**The adjective that best describes me:** Relaxed <br>
+___
 
 **Next profile goes above me**_  👆 (Do not delete this line)
+
