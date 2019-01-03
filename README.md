@@ -153,6 +153,14 @@ ___
 **Favorite Quote:** "Thinking is the hardest work there is, that is why few people engage in it" <br>
 **The adjective that best describes me:** Ground-Breaker <br>
 ___
+**Name:** Precious Ogbewi (@Pogbewi) <br>
+**Occupation:** Android Developer | UI/UX Designer | 10x Developer | Web Developer | Computer Maintainance Engineer <br>
+**Interests:** Data Analyst | Machine Learning | AI | Mobile Apps |Desktop Apps | Web Apps | <br>
+**Role Model:** Top Blogger, Developers<br>
+**Favorite Superhero:** Getting better than i was yesterday <br>
+**Favorite Quote:** "The hardest thing is the most simplest" <br>
+**The adjective that best describes me:** Limit-breaker <br>
+___
 
 **Next profile goes above me**  👆 (Do not delete this line)
 
