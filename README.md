@@ -153,6 +153,15 @@ ___
 **Favorite Quote:** "Thinking is the hardest work there is, that is why few people engage in it" <br>
 **The adjective that best describes me:** Ground-Breaker <br>
 ___
+**Name:** Mustapha Issa Toyin (@emaitee) <br>
+**Occupation:** Front End Developer <br>
+**Interests:** Technology | Web Apps | Data Science <br>
+**Role Model:** Null <br>
+**Favorite Superhero:** Iljimae <br>
+**Favorite Quote:** "Tough times never last, but tough people do." <br>
+**The adjective that best describes me:** Calm <br>
+___
+
 
 **Next profile goes above me**  👆 (Do not delete this line)
 
