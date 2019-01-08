@@ -154,5 +154,13 @@ ___
 **The adjective that best describes me:** Ground-Breaker <br>
 ___
 
+**Name:** Chukwurah, Daniel Nonso (@nonsoo24) <br>
+**Occupation:** Front-end Developer | Digital marketer | Agriculturist <br>
+**Interests:** Artificial intelligence | IoT | Robotics | Cybersecurity | Music | Books | Travels | Sports <br>
+**Role Model:** Evans Akanno <br>
+**Favorite Superhero:**   <br>
+**Favorite Quote:** "Winners never quit, Loosers never win" <br>
+**The adjective that best describes me:** Reserved <br>
+___
 **Next profile goes above me**  👆 (Do not delete this line)
 
