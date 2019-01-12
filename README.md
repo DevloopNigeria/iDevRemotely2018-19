@@ -153,6 +153,14 @@ ___
 **Favorite Quote:** "Thinking is the hardest work there is, that is why few people engage in it" <br>
 **The adjective that best describes me:** Ground-Breaker <br>
 ___
+**Name:** Okundaye Gabriel (@Gabcares) <br>
+**Occupation:** Optometrist | Laptop Technician | Full Stack Web Developer | Graphics Designer | Data Scientist | Developer Envagelist <br>
+**Interests:** Worship | Technology | Data Science | Machine Learning | Artificial Intelligence | Gaming | Adventure  <br>
+**Role Model:** Larry Page, Elon Musk, Taylor Otwell, Mark Zuckerberg <br>
+**Favorite Superhero:** Iron Man <br>
+**Favorite Quote:** "Try not to become a man of success, but rather try to become a man of value" <br>
+**The adjective that best describes me:** Patient <br>
+___
 
 **Next profile goes above me**  👆 (Do not delete this line)
 
